@@ -1,0 +1,5 @@
+{
+  "name": "AI Sentinel: Autonomous Cyber Defender",
+  "description": "A multi-agent system prototype that delivers an integrated, defensive cyber-security orchestration platform. The system unifies telemetry and controls to provide continuous monitoring, automated detection, prioritized investigation, and safe remediation guidance for web and server assets.",
+  "requestFramePermissions": []
+}
